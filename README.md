@@ -6,4 +6,4 @@
   - Discord Profile : hypersparsh
 
 I am experienced in:
-![C](img/c.svg)
+<img src="img/c.svg" alt="C" width="200" height="200">
