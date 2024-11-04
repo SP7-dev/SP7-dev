@@ -7,4 +7,4 @@
 
 I am experienced in:
 
-<img src="img/c.svg" alt="C" width="200" height="200">
+<img src="img/c.svg" alt="C" width="100" height="100">
